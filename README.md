@@ -15,7 +15,7 @@ The purpose of this analysis is to use k-means and PCA to cluster cryptocurrenci
   * use k=4 clusters
   * Total Explained Variance Ratio: 0.895
   * ![image](https://github.com/lhmag89/CryptoClustering/assets/119267098/9eb1ee89-4ef6-4fed-8e1c-7f74cf1cb37b)
-  * ![image](https://github.com/lhmag89/CryptoClustering/assets/119267098/4c7dd683-de5c-469f-94c6-468af650bed5)
+  * ![image](https://github.com/lhmag89/CryptoClustering/assets/119267098/b10bef3e-7767-4143-b506-b96acd01dc2d)
 
 ## Summary
 
